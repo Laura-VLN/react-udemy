@@ -10,3 +10,16 @@ body {
   background: #222;
   color: wheat;
 }
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: salmon;
+  margin: 30px;
+  transition: all ease-in-out 0.4s;
+}
+
+.animated {
+  background-color: lightblue;
+  transform: scale(1.3);
+}
